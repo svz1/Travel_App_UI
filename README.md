@@ -1,14 +1,10 @@
 # fluttertravelapp
 
-A new Flutter Travel application. Designed by Icha Mawaddah Febriyana, Code with Flutter by Abdul Aziz Ahwan
+A new Flutter Travel application. Designed by Icha Mawaddah Febriyana,
 
-# Travel App UI Design - Flutter UI Best Practice
+=
 
-## [Watch it on YouTube - Part 1](https://youtu.be/1qybIXHdvVU)
-## [Watch it on YouTube - Part 2](https://youtu.be/f42AvT6ZIu4)
 
-**Project Starter Code**
-- flutter_book_app_starter.zip [get file](https://gum.co/WMkFC)
 
 **Packages we are using:**
 
@@ -18,10 +14,7 @@ A new Flutter Travel application. Designed by Icha Mawaddah Febriyana, Code with
 - cached_network_image: [get package](https://pub.dev/packages/cached_network_image)
 
 
-**Fonts**
 
-- Lato [get font](https://fonts.google.com/specimen/Lato)
-- Playfair Display [get font](https://fonts.google.com/specimen/Playfair+Display)
 
 **UI Credit**
 
